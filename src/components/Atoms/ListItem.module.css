@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  border-top: solid 1px lightblue;
+}
+
+.header {
+  font-weight: bold;
+}
+
+.cell {
+  padding: 3px 0;
+  width: 7rem;
+}

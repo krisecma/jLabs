@@ -1,0 +1,10 @@
+.root {
+  max-width: 640px;
+  margin: 0 auto;
+  background: #eee;
+  padding: 10px;
+}
+.total {
+  font-size: 18px;
+  font-weight: bold;
+}
